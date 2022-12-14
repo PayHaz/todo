@@ -1,0 +1,9 @@
+.item-add-form {
+	padding-top: 20px;
+	display: flex;
+}
+
+.form-control {
+	margin-right: 5px;
+	width: 80%;
+}

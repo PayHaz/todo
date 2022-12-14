@@ -1,0 +1,15 @@
+.appHeader {
+    display: flex;
+    align-items: flex-end;
+    justify-content: space-between;
+    padding-top: 60px;
+};
+
+h1 {
+    font-weight: 600;
+}
+
+h3 {
+    font-size: 20px;
+    font-weight: 300;
+}

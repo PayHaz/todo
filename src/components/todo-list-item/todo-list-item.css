@@ -1,0 +1,25 @@
+.todo-list-item {
+    font-size: 20px;
+    padding-left: 20px;
+    display: flex;
+    justify-content: space-between;
+    align-items: flex-end;
+}
+
+.delete {
+    margin-right: 20px;
+    padding: 6px 11px;
+}
+
+.importantly {
+    padding: 6px 15px;
+}
+
+.done {
+    text-decoration: line-through;
+}
+
+.todo-list-item.important {
+    font-weight:  bold;
+    color: steelblue;
+}
